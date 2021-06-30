@@ -42,7 +42,7 @@ spec:
               key: password       
 ---
 # Node Port Service For SpringApp
-apiVersion: v1
+apiVersion: 
 kind: Service
 metadata:
   name: springboot
